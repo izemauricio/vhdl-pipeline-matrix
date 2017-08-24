@@ -1,5 +1,5 @@
 # vhdl-pipeline-matrix
-
+Pipelined matrix multiplication in VHDL.
 <br/><br/>
 Xilinx ISE Design Suite 14.7 environment, October 2013
 <br/><br/>
